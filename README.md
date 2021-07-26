@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StarL0st
-- 👀 I’m interested in making complex Discord Bots, wabsites, Minecraft Mods, games with or without game engines, like unity, also i'm learning java for making games.
+- 👀 I’m interested in making complex Discord Bots, websites, Minecraft Mods, games with or without game engines, like unity, also i'm learning java for making games.
 Finally I also want to make apps with c# and ts. 
 - 🌱 I’m currently learning c#, c, Java, JS, TS, CSS, HTML and more
 - You can reach me via my discord, it is: StarL0stGaming#0001
